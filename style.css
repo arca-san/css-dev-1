@@ -1,0 +1,50 @@
+h1{
+  text-align: center;
+  color: #79DAE8;
+  font-size: 3rem;
+}
+h2{
+  text-align: center;
+  color: #79DAE8;
+  font-size: 2rem;
+}
+body{
+  background-color: #2155CD;
+  font-family: Montserrat;
+}
+nav{
+  text-align: center;
+  font-size: 2rem;
+}
+
+p{
+  color: #E8F9FD;
+  font-size: 1.2rem;
+  text-align: center;
+}
+.about{
+  padding: 2rem 15rem 0 15rem;
+}
+
+.urun{
+  padding: 2rem 15rem 0 15rem;
+}
+
+.home{
+  padding: 2rem 15rem 0 15rem;
+}
+
+.ol{
+  list-style-position: inside;
+  color: #E8F9FD;
+}
+
+
+#gitar{
+  width: 50%;
+}
+
+#piano{
+  padding: 0 10px 0 10px;
+  width: 30%;
+}
